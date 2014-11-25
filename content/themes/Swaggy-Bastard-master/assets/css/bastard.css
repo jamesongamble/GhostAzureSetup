@@ -3,7 +3,7 @@
 * Copyright (c) 2014 Karlo Espiritu - MIT License
 */
 
-.hljs {
+/*.hljs {
   display: block;
   padding: 0.5em;
   background: #232323;
@@ -169,7 +169,7 @@
   display: inline-block;
   width: 100%;
 }
-
+*/
 .coffeescript .javascript,
 .javascript .xml,
 .tex .hljs-formula,
